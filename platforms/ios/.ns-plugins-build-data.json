@@ -1,0 +1,11 @@
+{
+	"tns-core-modules-widgets": {
+		"/Users/Shull/Desktop/repos/Groceries/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSLabel.h": "c7c5788d3ea834d96cf8a137cbf0c4ea28fd7829",
+		"/Users/Shull/Desktop/repos/Groceries/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSProcess.h": "787f09c57ede174d6323990e6d6e9eaf134da6f0",
+		"/Users/Shull/Desktop/repos/Groceries/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/TNSWidgets.h": "9b1b8c8e2701901f1ddeebe67c2ca3b0f95b0281",
+		"/Users/Shull/Desktop/repos/Groceries/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Headers/UIImage+TNSBlocks.h": "3b31a5be818e25c142e99f98479c538632d350ae",
+		"/Users/Shull/Desktop/repos/Groceries/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Info.plist": "864e17746640968d5f009d42aa6ea08daf16e662",
+		"/Users/Shull/Desktop/repos/Groceries/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/Modules/module.modulemap": "00d2220e76eb098f1808eb4e9b5c43ad4cadf1da",
+		"/Users/Shull/Desktop/repos/Groceries/node_modules/tns-core-modules-widgets/platforms/ios/TNSWidgets.framework/TNSWidgets": "45e064f5cfb8d59c638f8f37c7519579b2d3279c"
+	}
+}

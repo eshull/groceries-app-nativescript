@@ -1,0 +1,30 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"/Users/Shull/Desktop/repos/Groceries/app/app.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/list/list.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/login/login.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/login/login.js": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/Shull/Desktop/repos/Groceries/app/README.md": "c8f98a5aa76e9c68b874f2d986c47887ecf291e0",
+		"/Users/Shull/Desktop/repos/Groceries/app/app.js": "9ee4ca2ef410aa6e4cbd6dcb94175a6c3152d4d2",
+		"/Users/Shull/Desktop/repos/Groceries/app/package.json": "82e97d15dab3b714ae084e4ff71572e729ea2e45",
+		"/Users/Shull/Desktop/repos/Groceries/app/platform.android.css": "c2b2298f4eadbf28d1e31f4e4949840343b0f15f",
+		"/Users/Shull/Desktop/repos/Groceries/app/platform.ios.css": "c388d679494c419ad29f75ecea18916ad4c94bc6",
+		"/Users/Shull/Desktop/repos/Groceries/app/shared/config.js": "04201dc45a8fb2143588af41dfe461c8911f204f",
+		"/Users/Shull/Desktop/repos/Groceries/app/shared/utils/ios-swipe-delete.js": "9e53cfa50b8ffc800577cf369fc02d0305f6bc7a",
+		"/Users/Shull/Desktop/repos/Groceries/app/shared/view-models/grocery-list-view-model.js": "c60131df24ff3dc48a003f398ae308a0610aaba7",
+		"/Users/Shull/Desktop/repos/Groceries/app/shared/view-models/user-view-model.js": "299d6db6b89cbd5e540895873b739c185dae1904",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/list/list.css": "a23f40d42eeb4a3a260e46ae6200131ba69a1c88",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/list/list.xml": "66d557bc2d6a615b31d8ae685b0a40aa521fc27b",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/login/login.xml": "df3ee2b2dd5fef51fa1c8dbc61bd1cf0ece2e5ef",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/register/register.js": "0e7de3cc720dbe889b759dd6e91c9cbbd0170084",
+		"/Users/Shull/Desktop/repos/Groceries/app/views/register/register.xml": "629baa5c69bda3171b9b1eb1d0ff7f684609bd6b",
+		"/Users/Shull/Desktop/repos/Groceries/app/images/apple.jpg": "c033a7a48829675b73f5d1db5360ffd53a737e01"
+	},
+	"release": false,
+	"bundle": false,
+	"changesRequireBuild": true,
+	"time": "Mon Dec 31 2018 13:13:54 GMT-0800 (Pacific Standard Time)",
+	"changesRequireBuildTime": "Mon Dec 31 2018 13:13:54 GMT-0800 (Pacific Standard Time)",
+	"projectFileHash": "d2d78715e7d0a4c07b56cc203106bd42276f202d8ee78ec71489d7a71105111d"
+}
