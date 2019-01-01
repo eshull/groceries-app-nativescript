@@ -1,3 +1,10 @@
-<Page>
-    <Label text="hello world" />
+<Page loaded="loaded">
+    <StackLayout>
+        <Image src="res://logo" stretch="none" horizontalAlignment="center" />>
+        <TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField hint="Password" text="{{ password }}" secure="true" />
+
+        <button text="Sign in" tap="signIn" />
+        <button text="Sign up for Groceries" class="link" tap="register" />
+    </StackLayout>
 </Page>
